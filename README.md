@@ -11,7 +11,7 @@ sudo apt install nala -y
 # Run the following command
 
 ```
-sudo nano ~/.bashr
+sudo nano ~/.bashrc
 ```
 
 # Paste the codes at the end of the file
