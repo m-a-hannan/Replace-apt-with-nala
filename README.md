@@ -18,7 +18,7 @@ sudo nano ~/.bashr
 
 ```
 # Replace apt &apt-get with nala
-apt-get() {
+apt() {
   command nala "$@"
 }
 
