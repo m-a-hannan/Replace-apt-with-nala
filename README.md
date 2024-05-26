@@ -34,4 +34,9 @@ sudo() {
 
 ```
 # Save the file with ctrl+s and close ctrl+x
-# Reboort your System.
+Reboort your System.
+
+# To select fastest mirror
+```
+sudo nala fetch
+```
