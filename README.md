@@ -17,7 +17,7 @@ sudo nano ~/.bashrc
 # Paste the codes at the end of the file
 
 ```
-# Replace apt &apt-get with nala
+# Replace apt & apt-get with nala
 apt() {
   command nala "$@"
 }
